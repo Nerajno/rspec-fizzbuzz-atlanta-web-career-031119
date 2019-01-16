@@ -3,4 +3,4 @@
 
 def fizzbuzz
 
-end
+endclear
